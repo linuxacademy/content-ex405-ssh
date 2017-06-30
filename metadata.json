@@ -1,0 +1,17 @@
+{
+  "name": "rivethead42-ssh",
+  "version": "0.1.0",
+  "author": "rivethead42",
+  "summary": "The module manages ssh.",
+  "license": "Apache 2.0",
+  "source": "https://github.com/linuxacademy/content-ex405-ssh",
+  "project_page": "https://github.com/linuxacademy/content-ex405-ssh",
+  "issues_url": "https://github.com/linuxacademy/content-ex405-ssh/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_range": ">= 1.0.0"
+    }
+  ]
+}
+
